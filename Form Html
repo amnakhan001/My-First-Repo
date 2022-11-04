@@ -1,0 +1,20 @@
+<html lange="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equive="X-UA-Compatible"contant="IE=edge">
+    <meta name="viewport" content="width=device-wide,initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+    <body>
+      
+        <img src="img1.jpg.jpg" width="40%" hight="40rh" alt="No Preview img">
+        <video src="videoplayback (1).mp4" Width="40%"  hight=40%rh control autoplay muted></video>
+        <iframe scr=" index.html"frameborder="0" style="border: 5px solid yellowgreen;width: 100%;"></iframe>
+        <img src="img12.jpg" width="30%" hight="40%rh" alt="No preview img">
+        <video src="video12.mp4" width="30%" hight="40%" control autoplay muted ></video>
+    </body>
+
+</html>
+        

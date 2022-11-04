@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <body>
+        <center>
+            <table border="">
+            <th><h1>HTML</h1></th>
+            </table>
+        </center>
+            <h2>Definition<h2>
+                <img src="" width="20%" hight="20%" alt= "no preview img">
+            <h4>HTML stand for Hypertext Markup Language .It is used for taging,colour text,imge ,vidoes,and different effect apply to develop world wide web page.Its is stsndared markup language for desiged to be display in a browser.<h4>
+        </body>
+    </head>
+</html>
