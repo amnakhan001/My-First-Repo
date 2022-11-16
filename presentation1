@@ -1,0 +1,111 @@
+<html>
+    <head>
+        <body>
+        <center>
+        
+            <table border="">
+            <th><h1><b><p style=" color: rgb(0, 255, 200);">//HTML//</p></b></h1></th>
+            <style type = text/css>
+                body{ background-color : rgb(255, 0, 64);}
+                p{color : yellow;}
+            
+            </style>  
+        </table>
+        </center>
+            <img src="10.jpg" width="20%" hight="20%" alt= "no preview img">    
+            <h2><u>What is HTML?</u></h2> 
+            <img src="download (3)13.jpg" width="30%" hight="30%" alt= "no preview img">
+            <h4>HTML stand for Hypertext Markup Language .</h4>
+            <h4>It is stsndared markup language for desiged to  display in a browser.</h4>
+            <h2><u>Definition</u></h2>
+            <h4>HTML stand for Hypertext Markup Language .<br>
+            It is used for taging,colour text,imge ,vidoes,and different effect apply to develop world wide web page.<br>
+            It is stsndared markup language for desiged to  display in a browser.<br>
+            HTML is a set of text commands that can be used to format how aa web page is display.<br></h4>
+            <table border="">
+            <th><h1><p style=" color: rgb(0, 255, 64);"> HTML Page Structure </p></h1></th>
+        </table>
+                  <h3>< HTML > </h3>
+            <li> < html></li>
+            <li> < title >HTML< /title></li>
+             <li>< body></li>
+             <li>This is HTML!</li>
+             <li>< body></li>
+             <li>< /html></li> 
+             <center>
+                <table border="">
+                <th><h1><b><p style=" color: rgb(0, 255, 64);">//CSS//</p></b></h1></th>
+                </table>
+            </center>
+            <img src="12.jpg" width="20%" hight="20%" alt= "no preview img">
+            <h2><u>What is CSS?</u><h2> 
+                <img src="image7.png" width="20%" hight="20%" alt= "no preview img">
+                 <h4><b>CSS stand for Cascading Style Sheet </b>.</h4>
+                <h4><b>Style</b> define <b>how to display</b> HTML elements.</h4>
+                <h4><b>Style </b>are noemally stored in <b>style Sheet</b>.</h4>
+                <h4>Used in conjunction with HTML in several ways.</h4>
+                <h4>used to change "presentation" of a web page.</h4>
+                <h2><u>Definition</u><h2>
+                <h4>CSS is a technology that hepls us make our <br>website look more attractive. <br>It is data sent from the website to browser .<br>This data tells the browser some rule foe how the site should be<br> display.<br></h4> 
+                <table border="">
+         <th><h1> SCC Page Structure</h1></th>
+                </table>   
+               <img src="css-anatomy1.png" width="40%" hight="40%" alt= "no preview img">
+                <table border="">
+                    <th><h1>Comparison b/w HTML and CSS</h1></th>
+                    </table>
+                    <table border="">
+                        <tr>
+                            <th><img src="download11.png" width="10%" hight="10%" alt= "no preview img"></th>
+                            <th><img src="download1.png" width="10%" hight="10%" alt= "no preview img"></th>
+                        </tr>
+                        <tr>
+                            <th>HTML</th>
+                            <th>CSS</th>
+                        </tr>
+                        <tr>
+                            <td>Structer,Object,Things</td>
+                            <td>Look, Style</td>
+                        </tr>
+                        <tr>
+                            <td>< p>< h1>< br></td>
+                            <td>p{colour:red;}</td>
+                        </tr>
+                        <tr>
+                            <td>nouns</td>
+                            <td>adjective</td>
+                        </tr>
+                        <tr>
+                            <td>Walls,Structure</td>
+                            <td>Paint,Curtains</td>
+                        </tr>
+                </table>
+                <h1>HTML vs.CSS</h1> 
+                <img src="download (2).jpg" width="30%" hight="30%" alt= "no preview img">
+                <table border="">
+                 
+                    <tr>  
+                        <td><h3>HTML</h3></td>
+                        <td><h3>CSS</h3></td>
+                      </tr>
+                      <tr>  
+                        <td>Publish online document ,heading,text,lists,photos</td>
+                        <td>Design Colors,fonts and layouts</td>
+                      </tr>
+                      <tr>  
+                        <td>Retrive online info</td>
+                        <td>Adapt display across platforms different types of devices like large or smalls screens</td>
+                      </tr>
+                      <tr>  
+                        <td>Design forms for...searching for info making reservatings ordering products etc.</td>
+                        <td>Easier site ,maintenance style can be modifed without changing the HTML eiements</td>
+                      </tr>
+                      <tr>  
+                        <td>Include apps in their document spread-sheets vido clips and sound clips</td>
+                        <td>Tailor Pages modify multipe webpages using a single style sheet</td>
+                      </tr>                    
+                    </table>
+
+        </body>
+    </head>
+</html>   

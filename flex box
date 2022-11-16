@@ -1,0 +1,37 @@
+<html lange="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equive="X-UA-Compatible"contant="IE=edge">
+    <meta name="viewport" content="width=device-wide,initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        ul{
+            display: flex;
+            flex-direction: row;
+            background-color: blueviolet;
+            justify-content: center;
+            height: 30vh;
+            align-items: center;
+        }
+        ul li{
+            list-style: none;
+            background-color: antiquewhite;
+            color: brown;
+            margin: 10px;
+            padding: 10px;
+            border: 5px solid goldenrod;
+            border-top-right-radius: 15px ;
+            box-shadow: 5px 15px 15px burlywood;
+
+        }
+        </style>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contect</li>
+        </ul>
+    </body>
+    </html>

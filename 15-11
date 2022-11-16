@@ -1,0 +1,76 @@
+<html lange="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equive="X-UA-Compatible"contant="IE=edge">
+    <meta name="viewport" content="width=device-wide,initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .ul1{
+            display: flex;
+            flex-direction: row;
+            background-color:green;
+            justify-content: center;
+            height: 20vh;
+            align-items: center;
+        }
+        .ul1 li{
+            list-style: none;
+            background-color: green;
+            color: antiquewhite;
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid green;
+        }
+        </style>
+        <ul class="ul1">
+            <li>File</li>
+            <li>Home</li>
+            <li>Insert</li>
+            <li>Page Layout</li>
+            <li>Formulas</li>
+            <li>Data</li>
+            <li>Review</li>
+            <li>view</li>
+            <li>Tell me what you want to do????....</li>
+        </ul>
+          
+        
+    <style>
+        .ul2{
+            display: flex;
+            flex-direction: row;
+            background-color: silver;
+            justify-content: center;
+            height: 30vh;
+            align-items: center;
+        }
+        .ul2 li{
+            list-style: none;
+            background-color: antiquewhite;
+            color: brown;
+            margin: 10px;
+            padding: 10px;
+            border: 5px solid gray;
+            border-top-right-radius: 15px ;
+            box-shadow: 5px 15px 15px burlywood;
+
+        }
+        </style>
+        <ul class="ul2">
+            <li>website</li>
+            <li>Progress</li>
+            <li>progress indicator</li>
+            <li>progress</li>
+            <li>hud</li>
+            <li>toolbar</li>
+            <li>iphone</li>
+            <li>navigation bar</li>
+            <li>ios</li>
+        </ul>
+    </body>
+    </html>
+    </body>
+    </html>

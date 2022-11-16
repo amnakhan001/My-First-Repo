@@ -1,0 +1,31 @@
+<html lange="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equive="X-UA-Compatible"contant="IE=edge">
+    <meta name="viewport" content="width=device-wide,initial-scale=1.0">
+    <title>Document</title>
+</head>
+  <body>
+    <style>
+       .wrapper
+             {
+                 background-color: darkgreen;
+                 width: 70%;
+                 height:30vh;
+            }
+            .wrapper>p {
+                background-color: blueviolet;
+                font-size: 20%;
+                width :30%;
+                
+
+            }
+        </style>
+  <div class="wrapper">
+    <p>Lorem4;</p>
+    </div>
+      </body>
+
+</html>
+    

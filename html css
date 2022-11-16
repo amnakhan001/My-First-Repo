@@ -1,0 +1,33 @@
+<html>
+    <head></head>
+    <style>
+        h1{
+            colour:brown;
+        }
+        </style>
+        <body>
+<h1 style="background-color: yellow;">Hellow</h1>
+p{
+    color: red
+}
+<tagname attribte="">h1{scolor:blue;font-size;12px}</tagname>
+
+<p style=" color: blue;"> this is a paragraph</p>
+<style type = text/css>
+    body{ background-color : blue;}
+    p{color : yellow;}
+
+
+</style>
+<style>
+    h1{
+        color:blueviolet;
+    }
+    </style>
+    <h1 style="background-color:aqua;">Pakistan</h1>
+    p{
+        color: green
+    }
+    <tagname attribte="">
+        </body>
+</html>

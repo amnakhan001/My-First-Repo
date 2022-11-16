@@ -7,3 +7,19 @@
         </body>
     </head>
 </html>
+
+
+
+
+<h4>  <  !DOCTYPE html > Tells version of HTML  </h4>
+
+<h5>
+    <li> < html >   HTML Root Element </li>
+    <li> <  head  > Used to contain page HTML metadata </li>
+      <li> < title >Page Title < /title >  Title of HTML page< /head ></li> 
+      <li> < body> Hold content of HTML</li>
+        <li>  < h2> Heading content < /h2>  HTML heading tag </li>
+        <li> < p > Paragraph Content < /p > HLTM paragraph tag </li>
+        <li> < /body></li>
+       <li> < /html></li>
+</h5>
